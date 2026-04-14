@@ -37,3 +37,6 @@ https://www.coursera.org/specializations/python-espanol
 -Escribir consultas SQL 
 
 -Comprender que es el Mapeo Objeto Relacional
+
+<img width="657" height="657" alt="image" src="https://github.com/user-attachments/assets/ab90bf77-b6f3-40cb-80d5-a435153dcdb6" />
+
